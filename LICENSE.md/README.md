@@ -4,13 +4,31 @@ supervisor: Mijung Kim
 ## During this 2018 winter internship program, students will learn:
 
   - Basic Knowledge in Machine Learning
+  - Application of machine learning for image classification.
   - The concept of virtual environment, and thereby how to use docker, or any other virtual environment tools.
   
   
 ## Initial steps before anything:
 
-### Downloading Docker:
+### Introduction:
 
+  Just to grasp an idea what machine learning and image classification are, follow the link below:
+  
+  https://developer.nvidia.com/dli/onlinelabs
+  
+  The link will take you to NVIDIA DLI online labs. Read through the first two labs:
+    - Applications of Deep Learning with Caffe, Theano, and Torch
+    - Image classification with DIGITS.
+  
+  In order to take those labs, you need to sign up for QWIKLABS. The signing-up process is very short and simple, so no worries.
+
+
+### Installing Docker:
+  
+  Docker will be the main tool you will be using throughout this program. It is a container that enables easier creation, deplyoment and running applications.
+  
+  The tem 'container' defines a software packaged into standardized units for development, shipment and deployment (brought from docker website). Simply speaking, it's a program you will need for coding.
+  
 ####  1. For Linux and Mac users:
       
     Follow the link below for general instruction of docker:

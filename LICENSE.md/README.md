@@ -1,6 +1,10 @@
 # 2018_winter_internship @ GUGC
 supervisor: Mijung Kim
 
+Students: Pyeong Eun Kim
+          Mijeong Lee
+          Ju Hyung Lee
+
 ## During this 2018 winter internship program, students will learn:
 
   - Basic Knowledge in Machine Learning

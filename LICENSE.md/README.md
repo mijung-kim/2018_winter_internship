@@ -2,9 +2,10 @@
 supervisor: Mijung Kim
 
 ## During this 2018 winter internship program, students will learn:
+
   - Basic Knowledge in Machine Learning
-  - the concept of virtual environment, and thereby how to use docker.
-  - 
+  - The concept of virtual environment, and thereby how to use docker, or any other virtual environment tools.
+  
   
 ## Initial steps before anything:
 

@@ -9,7 +9,9 @@ Students: Pyeong Eun Kim
 
   - Basic Knowledge in Machine Learning
   - Application of machine learning for image classification.
+  - Application of machine learning for STT (Speech-To-Text).
   - The concept of virtual environment, and thereby how to use docker, or any other virtual environment tools.
+ 
   
   
 ## Initial steps before anything:
@@ -27,19 +29,30 @@ Students: Pyeong Eun Kim
   In order to take those labs, you need to sign up for QWIKLABS. The signing-up process is very short and simple, so no worries.
 
 
-### Installing Docker:
+### Installation & Initiation of Docker:
   
   Docker will be the main tool you will be using throughout this program. It is a container that enables easier creation, deplyoment and running applications.
   
   The tem 'container' defines a software packaged into standardized units for development, shipment and deployment (brought from docker website). Simply speaking, it's a program you will need for coding.
   
 ####  1. For Linux and Mac users:
-      
+   
+   **Installation**
+    
     Follow the link below for general instruction of docker:
       
       https://docs.docker.com/get-started/
     
     Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
+    
+   **Initiation**
+   
+    Make sure you open Docker application.
+    
+    Open Terminal and on your bash write command.
+    
+    $ docker login
+    
 
 
 ####  2. For Windows users:

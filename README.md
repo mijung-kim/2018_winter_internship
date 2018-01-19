@@ -39,19 +39,19 @@ Students: Pyeong Eun Kim
    
    **Installation**
     
-          Follow the link below for general instruction of docker:
+     Follow the link below for general instruction of docker:
       
-          https://docs.docker.com/get-started/
+     https://docs.docker.com/get-started/
     
-          Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
+     Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
     
    **Initiation**
    
-          Make sure you open Docker application.
+     Make sure you open Docker application.
     
-          Open Terminal and on your bash write command.
+     Open Terminal and on your bash write command.
     
-          $ docker login
+     $ docker login
     
 
 

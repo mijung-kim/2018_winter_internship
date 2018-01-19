@@ -128,32 +128,46 @@ Click $start a project$ to start making your own repository. Then follow the ste
   There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
 
 ##To install UBUNTU  :
+      
       1. To download Ubuntu 16.04.3 LTS, follow this link  
+          
           https://www.ubuntu.com/download/desktop
+      
       2. Move the Ubuntu file into USB.  
+      
       3. Make the USB bootable with rufus. To download rufus, follow this link 
+      
           https://rufus.akeo.ie/
+      
       4. To install Ubuntu, follow this link below  
-          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.1516250990-1540692620.1516250990#3
+          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.151625099           0-1540692620.1516250990#3
     
 
 
 
 
       
-=======
 
-      
-      
+
 ## Installing UBUNTU
-### For window users      : 
-  There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
-##To install UBUNTU  :
-  1. To download Ubuntu 16.04.3 LTS, follow this link  
+
+### For window users: 
+
+There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
+
+##To install UBUNTU :
+  
+  1. To download Ubuntu 16.04.3 LTS, follow this link  
+          
           https://www.ubuntu.com/download/desktop
+  
   2. Move the Ubuntu file into USB.  
+  
   3. Make the USB bootable with rufus. To download rufus, follow this link 
-          https://rufus.akeo.ie/
-  4. To install Ubuntu, follow this link below  
-          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.1516250990-1540692620.1516250990#3
->>>>>>> 0d2447ca58b384c91e0747a43312e7f884761a8f
+          
+          https://rufus.akeo.ie/
+  
+  4. To install Ubuntu, follow this link below  
+          
+          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.151625099           0-1540692620.1516250990#3
+

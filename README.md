@@ -118,10 +118,9 @@ Click $start a project$ to start making your own repository. Then follow the ste
           3. Check "Initializing this repository with README".
           4. License normally would be "MIT" (about the license go to this link 
           5. 
-<<<<<<< HEAD
-    
 
-##Installing UBUNTU
+
+## Installing UBUNTU
 
 ### For window users      : 
 

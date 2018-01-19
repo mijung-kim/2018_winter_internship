@@ -98,7 +98,7 @@ http://www.deeplearningbook.org/contents/ml.html
 
 ### Deep learning
 
-! [Alt text](\Users\user\Documents\workspace\intern\course_layout.png)
+! [course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
 
   For backgroud knowldege of deep learning, lectures 2-6 of Convolutional Neural Networks for Visual Recognition from Standford University can be followed. 
   http://cs231n.stanford.edu/syllabus.html
@@ -118,6 +118,30 @@ Click $start a project$ to start making your own repository. Then follow the ste
           3. Check "Initializing this repository with README".
           4. License normally would be "MIT" (about the license go to this link 
           5. 
+<<<<<<< HEAD
+    
+
+##Installing UBUNTU
+
+### For window users      : 
+
+  There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
+
+##To install UBUNTU  :
+      1. To download Ubuntu 16.04.3 LTS, follow this link  
+          https://www.ubuntu.com/download/desktop
+      2. Move the Ubuntu file into USB.  
+      3. Make the USB bootable with rufus. To download rufus, follow this link 
+          https://rufus.akeo.ie/
+      4. To install Ubuntu, follow this link below  
+          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.1516250990-1540692620.1516250990#3
+    
+
+
+
+
+      
+=======
 
       
       
@@ -132,3 +156,4 @@ Click $start a project$ to start making your own repository. Then follow the ste
           https://rufus.akeo.ie/
   4. To install Ubuntu, follow this link below  
           https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.1516250990-1540692620.1516250990#3
+>>>>>>> 0d2447ca58b384c91e0747a43312e7f884761a8f

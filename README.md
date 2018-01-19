@@ -11,6 +11,7 @@ Students: Pyeong Eun Kim
   - Application of machine learning for image classification.
   - Application of machine learning for STT (Speech-To-Text).
   - The concept of virtual environment, and thereby how to use docker, or any other virtual environment tools.
+  - Usage of Github as sharing tool for codes.
  
   
   
@@ -105,6 +106,18 @@ http://www.deeplearningbook.org/contents/ml.html
   After the lectures, it is recommended to attemp to solve he assignment 1.
   
   
-    
+## Github 
+
+### Make your own Repository
+
+Click the link and sign in https://github.com. (If you do not have account sign up! username is important because your username will be the address of your github.)
+
+Click $start a project$ to start making your own repository. Then follow the steps
+          1. write any repository name. 
+          2. Check Public
+          3. Check "Initializing this repository with README".
+          4. License normally would be "MIT" (about the license go to this link 
+          5. 
+
       
       

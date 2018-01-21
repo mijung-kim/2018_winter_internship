@@ -178,7 +178,7 @@ There is a display issue that it does not display the GUI on docker. So it is re
 
 ## Tutorials on Tkinter - Making GUIs! <a name='gui'></a>
 
-GUI, standing for Graphical User Interface, is basically a program with user-friendly interface in which users can use the program with clicking buttons instead of typing in difficult commands.
+**GUI**, standing for **G**raphical **U**ser **I**nterface, is basically a program with user-friendly interface in which users can use the program with clicking buttons instead of typing in difficult commands.
 
 Go to the link for tutorials:  
 	 http://www.tkdocs.com/tutorial/  

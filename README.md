@@ -136,12 +136,12 @@ http://www.deeplearningbook.org/contents/ml.html
 
 Click the link and sign in https://github.com. (If you do not have account sign up! username is important because your username will be the address of your github.)
 
-Click $start a project$ to start making your own repository. Then follow the steps
-          1. write any repository name. 
-          2. Check Public
-          3. Check "Initializing this repository with README".
-          4. You have to choose a license. License normally would be "MIT" (detailed explanation included in the link
-          5. Click 'create'. Now you're ready to roll!
+Click **start a project** to start making your own repository. Then follow the steps:  
+  1. write any repository name.  
+  2. Check Public  
+  3. Check "Initializing this repository with README".  
+  4. You have to choose a license. License normally would be "MIT" (detailed explanation included in the link  
+  5. Click 'create'. Now you're ready to roll!  
 
       
 

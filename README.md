@@ -1,6 +1,6 @@
 # 2018_winter_internship @ GUGC
 ![](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)
-
+~~분교~~ Home campus!!
 ### Supervisor:  
   Mijung Kim  
 
@@ -80,26 +80,26 @@
 
 ####  2. For Windows users: <a name="windows"></a>
     
-    If your computer runs a Windows 10 Pro, or has Windows Server 2016, follow the same procedures as for Linux and Mac.
+  If your computer runs a Windows 10 Pro, or has Windows Server 2016, follow the same procedures as for Linux and Mac.
     
-    Else, it's a completely different story - you need to download a docker toolbox for windows from the following links:
+  Else, it's a completely different story - you need to download a docker toolbox for windows from the following links:
     
-      https://docs.docker.com/toolbox/toolbox_install_windows/#step-2-install-docker-toolbox
+	https://docs.docker.com/toolbox/toolbox_install_windows/#step-2-install-docker-toolbox  
     
-    Run the file to install toolbox, and then you will see three items popped up on your desktop: 
+  Run the file to install toolbox, and then you will see three items popped up on your desktop: 
     
-       - Docker Quickstart Terminal
-       - Oracle VM VirtualBox
-       - Kitematic (Alpha)
+    - Docker Quickstart Terminal
+    - Oracle VM VirtualBox
+    - Kitematic (Alpha)
     
-    Ignore Oracle VM VirtualBox! You won't be using this program (at least during this internship program)
+  Ignore Oracle VM VirtualBox! You won't be using this program (at least during this internship program)
     
-    Run Kitematic (Alpha). You will see a page full of boxes that represent docker images. All you need is the very first item on the top left corner: 'hello-world-gnix'
-    Click 'CREATE' button. It's a blue rectangular button with blue edges that every item has.
+  Run Kitematic (Alpha). You will see a page full of boxes that represent docker images. All you need is the very first item on the top left corner: 'hello-world-gnix'  
+  Click 'CREATE' button. It's a blue rectangular button with blue edges that every item has.
     
-    Now you have the appropriate container. Close Kitematic (Alpha), and open Docker Quickstart Terminal. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. After then you are ready!
+  Now you have the appropriate container. Close Kitematic (Alpha), and open Docker Quickstart Terminal. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. After then you are ready!
 
-    ##### *Acutally, running docker on windows is quite complicated and uncompatible with whatever you are going to do on docker. Thus, it is recommended to scroll down a bit and read the section: "Installing Ubuntu".
+  ##### *Acutally, running docker on windows is quite complicated and uncompatible with whatever you are going to do on docker. Thus, it is recommended to scroll down a bit and read the section: "Installing Ubuntu".
     
     
     
@@ -112,19 +112,19 @@ http://cs231n.github.io/classification/
 
 ### modules numpy <a name="numpy"></a>
   
-  During the internship, modules numpy in python is used that it is important to know how numpy works. It is recommended to have numpy tutorial with the link below to learn numpy and to get familiar with the modules.
+  During the internship, modules numpy in python is used that it is important to know how numpy works. It is recommended to have numpy tutorial with the link below to learn numpy and to get familiar with the modules.  
 http://cs231n.github.io/python-numpy-tutorial/
 
 ### machine learning <a name="ml"></a>
   
-  Machine learning is the basis of the internship program. To have a thorough understanding of the machine learning, follow this link below :
+  Machine learning is the basis of the internship program. To have a thorough understanding of the machine learning, follow this link below :  
 http://www.deeplearningbook.org/contents/ml.html
 
 ### Deep learning <a name="mdl"></a>
 
 ! [course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
 
-  For backgroud knowldege of deep learning, lectures 2-6 of Convolutional Neural Networks for Visual Recognition from Standford University can be followed. 
+  For backgroud knowldege of deep learning, lectures 2-6 of Convolutional Neural Networks for Visual Recognition from Standford University can be followed.  
   http://cs231n.stanford.edu/syllabus.html
   
   After the lectures, it is recommended to attemp to solve he assignment 1.
@@ -152,7 +152,7 @@ Click $start a project$ to start making your own repository. Then follow the ste
 
 There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
 
-##To install UBUNTU :
+## To install UBUNTU :
   
   1. To download Ubuntu 16.04.3 LTS, follow this link  
           

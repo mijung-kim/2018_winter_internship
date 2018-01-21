@@ -1,5 +1,5 @@
 # 2018 Winter Internship @ GUGC
-![](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent200.png)  
+![ghent logo](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent.jpg)  
 
 ### Supervisor:  
   Mijung Kim  

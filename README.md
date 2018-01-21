@@ -1,6 +1,6 @@
 # 2018_winter_internship @ GUGC
-![](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)
-~~분교~~ Home campus!!
+![](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)  
+
 ### Supervisor:  
   Mijung Kim  
 
@@ -13,10 +13,10 @@
 * [Goal](#goal)  
 * [Getting Ready:](#initial)  
   * [Introduction](#introduction)  
-  * [Installing docker](#docker)  
+  * [Installing docker](#docker)    
    * [For Linux and Mac](#linuxmac)  
    * [For Windows](#windows)  
-  * [Crucial Lectures:](#csn)  
+  * [Crucial Lectures:](#csn)    
    * [Image Classification](#imclass)  
    * [Numpy Tutorial](#numpy)  
    * [Machine Learning](#ml)  

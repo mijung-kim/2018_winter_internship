@@ -1,10 +1,10 @@
 # 2018_winter_internship @ GUGC
-![][http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg]
+![](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)
 
-## Supervisor:  
+### Supervisor:  
   Mijung Kim  
 
-## Students:  
+### Students:  
   Pyeong Eun Kim  
   Mijeong Lee  
   Ju Hyung Lee  

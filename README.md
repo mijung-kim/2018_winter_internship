@@ -8,12 +8,14 @@
   Ju Hyung Lee
 
 # Table of Contents
-1. Goal(#during-this-2018-winter-internship-program,-students-will-learn:)
-2. Getting Ready:(#initial-steps-before-anything:)
-  2.1. Introduction(#introduction)
-  2.2. Installing docker(#installation-&-initialization-of-docker:)
+1. [Goal](#goal)
+2. [Getting Ready:](#initial)
+  2.1. [Introduction](#introduction)
+  2.2. [Installing docker](#docker)
+    2.2.1 [For Linux and Mac](#linuxmac)
+    2.2.2 [For Windows](#windows)
 
-## During this 2018 winter internship program, students will learn:
+## During this 2018 winter internship program, students will learn: <a name="goal"></a>
 
   - Basic Knowledge in Machine Learning
   - Application of machine learning for image classification.
@@ -23,9 +25,9 @@
  
   
   
-## Initial steps before anything:
+## Initial steps before anything: <a name="initial"></a>
 
-### Introduction:
+### Introduction: <a name="introduction"></a>
 
   Just to grasp an idea what machine learning and image classification are, follow the link below:
   
@@ -40,13 +42,13 @@
   The codes that you will see on the labs above are complicated and not informative. Make sure you do not try to UNDERSTAND, but REALIZE what you will do.
 
 
-### Installation & Initiation of Docker:
+### Installation & Initiation of Docker: <a name="docker"></a>
   
   Docker will be the main tool you will be using throughout this program. It is a container that enables easier creation, deplyoment and running applications.
   
   The tem 'container' defines a software packaged into standardized units for development, shipment and deployment (brought from docker website). Simply speaking, it's a program you will need for coding.
   
-####  1. For Linux and Mac users:
+####  1. For Linux and Mac users: <a name="linuxmac"></a>
    
    **Installation**
     
@@ -66,7 +68,7 @@
     
 
 
-####  2. For Windows users:
+####  2. For Windows users: <a name="windows"></a>
     
     If your computer runs a Windows 10 Pro, or has Windows Server 2016, follow the same procedures as for Linux and Mac.
     

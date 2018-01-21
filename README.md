@@ -1,19 +1,27 @@
 # 2018_winter_internship @ GUGC
-##Supervisor: 
-  Mijung Kim
+##Supervisor:  
+  Mijung Kim  
 
-##Students: 
-  Pyeong Eun Kim
-  Mijeong Lee
-  Ju Hyung Lee
+##Students:  
+  Pyeong Eun Kim  
+  Mijeong Lee  
+  Ju Hyung Lee  
 
 # Table of Contents
-1. [Goal](#goal)
-2. [Getting Ready:](#initial)
-  2.1. [Introduction](#introduction)
-  2.2. [Installing docker](#docker)
-    2.2.1 [For Linux and Mac](#linuxmac)
-    2.2.2 [For Windows](#windows)
+1. [Goal](#goal)  
+2. [Getting Ready:](#initial)  
+  2.1. [Introduction](#introduction)  
+  2.2. [Installing docker](#docker)  
+    2.2.1 [For Linux and Mac](#linuxmac)  
+    2.2.2 [For Windows](#windows)  
+  2.3 [Crucial Lectures:](#csn)  
+    2.3.1 [Image Classification](#imclass)  
+    2.3.2 [Numpy Tutorial](#numpy)  
+    2.3.3 [Machine Learning](#ml)  
+    2.3.4 [Deep Learning](#mdl)  
+  2.4 [Github: Making repository](#github)  
+  2.5 [Installing Ubuntu](#ubuntu)  
+
 
 ## During this 2018 winter internship program, students will learn: <a name="goal"></a>
 
@@ -93,24 +101,24 @@
     
     
     
-## Some lectures to go through to have a better understanding of what it is going on.
+## Some lectures to go through to have a better understanding of what it is going on. <a name="csn"></a>
 
-### image classification 
+### image classification <a name="imclass"></a>
   
   To learn about the image classification, follow this link below for introductory explanation of image classification :
 http://cs231n.github.io/classification/
 
-### modules numpy
+### modules numpy <a name="numpy"></a>
   
   During the internship, modules numpy in python is used that it is important to know how numpy works. It is recommended to have numpy tutorial with the link below to learn numpy and to get familiar with the modules.
 http://cs231n.github.io/python-numpy-tutorial/
 
-### machine learning
+### machine learning <a name="ml"></a>
   
   Machine learning is the basis of the internship program. To have a thorough understanding of the machine learning, follow this link below :
 http://www.deeplearningbook.org/contents/ml.html
 
-### Deep learning
+### Deep learning <a name="mdl"></a>
 
 ! [course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
 
@@ -120,7 +128,7 @@ http://www.deeplearningbook.org/contents/ml.html
   After the lectures, it is recommended to attemp to solve he assignment 1.
   
   
-## Github 
+## Github <a name="github"></a>
 
 ### Make your own Repository
 
@@ -136,7 +144,7 @@ Click $start a project$ to start making your own repository. Then follow the ste
       
 
 
-## Installing UBUNTU
+## Installing UBUNTU <a name='ubuntu'></a>
 
 ### For window users: 
 

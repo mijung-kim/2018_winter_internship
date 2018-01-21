@@ -23,6 +23,7 @@
     * [Deep Learning](#mdl)  
   * [Github: Making repository](#github)  
   * [Installing Ubuntu](#ubuntu)  
+* [Tkinter: Making GUIs](#gui)  
 
 
 ## During this 2018 winter internship program, students will learn: <a name="goal"></a>
@@ -105,24 +106,24 @@
     
 ## Some lectures to go through to have a better understanding of what it is going on. <a name="csn"></a>
 
-### image classification <a name="imclass"></a>
+### Image Classification <a name="imclass"></a>
   
   To learn about the image classification, follow this link below for introductory explanation of image classification :
 http://cs231n.github.io/classification/
 
-### modules numpy <a name="numpy"></a>
+### Module: numpy <a name="numpy"></a>
   
   During the internship, modules numpy in python is used that it is important to know how numpy works. It is recommended to have numpy tutorial with the link below to learn numpy and to get familiar with the modules.  
 http://cs231n.github.io/python-numpy-tutorial/
 
-### machine learning <a name="ml"></a>
+### Machine Learning <a name="ml"></a>
   
   Machine learning is the basis of the internship program. To have a thorough understanding of the machine learning, follow this link below :  
 http://www.deeplearningbook.org/contents/ml.html
 
-### Deep learning <a name="mdl"></a>
+### Deep Learning <a name="mdl"></a>
 
-! [course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
+![course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
 
   For backgroud knowldege of deep learning, lectures 2-6 of Convolutional Neural Networks for Visual Recognition from Standford University can be followed.  
   http://cs231n.stanford.edu/syllabus.html
@@ -173,5 +174,17 @@ There is a display issue that it does not display the GUI on docker. So it is re
           https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.151625099           0-1540692620.1516250990#3
 
 
+
+
+## Tutorials on Tkinter - Making GUIs! <a name='gui'></a>
+
+GUI, standing for Graphical User Interface, is basically a program with user-friendly interface in which users can use the program with clicking buttons instead of typing in difficult commands.
+
+Go to the link for tutorials:  
+	 http://www.tkdocs.com/tutorial/  
+
+The link above guides you from a to z on how to make simple GUIs.
+
+~~its really difficult, i can tell you, this is impossibruuuuu~~
 
 

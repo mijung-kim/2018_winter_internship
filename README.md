@@ -8,19 +8,19 @@
   Ju Hyung Lee  
 
 # Table of Contents
-1. [Goal](#goal)  
-2. [Getting Ready:](#initial)  
-  2.1. [Introduction](#introduction)  
-  2.2. [Installing docker](#docker)  
-    2.2.1 [For Linux and Mac](#linuxmac)  
-    2.2.2 [For Windows](#windows)  
-  2.3 [Crucial Lectures:](#csn)  
-    2.3.1 [Image Classification](#imclass)  
-    2.3.2 [Numpy Tutorial](#numpy)  
-    2.3.3 [Machine Learning](#ml)  
-    2.3.4 [Deep Learning](#mdl)  
-  2.4 [Github: Making repository](#github)  
-  2.5 [Installing Ubuntu](#ubuntu)  
+* [Goal](#goal)  
+* [Getting Ready:](#initial)  
+  * [Introduction](#introduction)  
+  * [Installing docker](#docker)  
+   * [For Linux and Mac](#linuxmac)  
+   * [For Windows](#windows)  
+  * [Crucial Lectures:](#csn)  
+   * [Image Classification](#imclass)  
+   * [Numpy Tutorial](#numpy)  
+   * [Machine Learning](#ml)  
+   * [Deep Learning](#mdl)  
+  * [Github: Making repository](#github)  
+  * [Installing Ubuntu](#ubuntu)  
 
 
 ## During this 2018 winter internship program, students will learn: <a name="goal"></a>

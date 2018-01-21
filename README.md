@@ -1,5 +1,5 @@
 # 2018 Winter Internship @ GUGC
-![~~분교~~ Extended Home Campus](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)  
+![](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent200.png)  
 
 ### Supervisor:  
   Mijung Kim  
@@ -123,7 +123,7 @@ http://www.deeplearningbook.org/contents/ml.html
 
 ### Deep Learning <a name="mdl"></a>
 
-![course_layout](\Users\user\Documents\workspace\intern\course_layout.png)
+![course_layout](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/DLcourse.png)
 
   For backgroud knowldege of deep learning, lectures 2-6 of Convolutional Neural Networks for Visual Recognition from Standford University can be followed.  
   http://cs231n.stanford.edu/syllabus.html

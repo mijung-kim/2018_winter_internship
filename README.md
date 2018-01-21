@@ -1,4 +1,6 @@
-# 2018 Winter Internship @ GUGC
+2018 Winter Internship @ GUGC
+=============================
+
 ![ghent logo](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent.jpg)  
 
 ### Supervisor:  
@@ -24,6 +26,10 @@
   * [Github: Making repository](#github)  
   * [Installing Ubuntu](#ubuntu)  
 * [Tkinter: Making GUIs](#gui)  
+  * [MUST READ: difference in python 2.7](#cautious)  
+* [Practice: Project DeepSpeech](#practice)  
+
+
 
 
 ## During this 2018 winter internship program, students will learn: <a name="goal"></a>
@@ -63,17 +69,17 @@
    
   **Installation**
     
-    Follow the link below for general instruction of docker:
+  Follow the link below for general instruction of docker:
       
 	https://docs.docker.com/get-started/
     
-    Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
+  Make sure you download the *Community Edition (CE)*, which is free. Ofcourse, make sure the installer matches your OS.
     
   **Initiation**
    
-    Make sure you open Docker application.
+  Make sure you open Docker application.
     
-    Open Terminal and on your bash write command:
+  Open Terminal, and on your bash write command:
     
 	$ docker login
     
@@ -104,6 +110,8 @@
     
     
     
+
+
 ## Some lectures to go through to have a better understanding of what it is going on. <a name="csn"></a>
 
 ### Image Classification <a name="imclass"></a>
@@ -131,6 +139,8 @@ http://www.deeplearningbook.org/contents/ml.html
   After the lectures, it is recommended to attemp to solve he assignment 1.
   
   
+
+
 ## Github <a name="github"></a>
 
 ### Make your own Repository
@@ -178,13 +188,32 @@ There is a display issue that it does not display the GUI on docker. So it is re
 
 ## Tutorials on Tkinter - Making GUIs! <a name='gui'></a>
 
-**GUI**, standing for **G**raphical **U**ser **I**nterface, is basically a program with user-friendly interface in which users can use the program with clicking buttons instead of typing in difficult commands.
+  **GUI**, standing for **G**raphical **U**ser **I**nterface, is basically a program with user-friendly interface in which users can use the program with clicking buttons instead of typing in difficult commands.
 
-Go to the link for tutorials:  
-	 http://www.tkdocs.com/tutorial/  
+  Go to the link for tutorials:  
+	 http://www.tkdocs.com/tutorial/
 
-The link above guides you from a to z on how to make simple GUIs.
+  The link above guides you from a to z on how to make simple GUIs.
 
-~~its really difficult, i can tell you, this is impossibruuuuu~~
+### MUST READ! Different Version of Python. <a name='cautious'></a>
 
+  The Tkinter tutorial goes on with Python3.4 or above, but we are using **python 2.7**.
+
+  While going through the tutorial, some commands won't work:  
+	import tkinter
+	from tkinter import ttk
+
+  Instead, you should go by:  
+	import Tkinter
+	import ttk
+
+## Practice: Project DeepSpeech <a name='practice'></a>
+
+  After going through tutorials from the section right above, now it's time for real stuff.
+
+  Try to make a GUI based on this github project below:  
+	https://github.com/mozilla/DeepSpeech
+
+  
+  
 

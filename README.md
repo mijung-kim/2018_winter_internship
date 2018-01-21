@@ -1,5 +1,5 @@
-# 2018_winter_internship @ GUGC
-![](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)  
+# 2018 Winter Internship @ GUGC
+![~~분교~~ Extended Home Campus](http://www.iias-iisa.org/wp-content/uploads/2017/03/logo_ugent_200_en.jpg)  
 
 ### Supervisor:  
   Mijung Kim  
@@ -44,38 +44,38 @@
   
   https://developer.nvidia.com/dli/onlinelabs
   
-  The link will take you to NVIDIA DLI online labs. Read through the first two labs:
-    - Applications of Deep Learning with Caffe, Theano, and Torch
+  The link will take you to NVIDIA DLI online labs. Read through the first two labs:  
+    - Applications of Deep Learning with Caffe, Theano, and Torch  
     - Image classification with DIGITS.
   
-  In order to take those labs, you need to sign up for QWIKLABS. The signing-up process is very short and simple, so no worries.
+  In order to take those labs, you need to sign up for **QWIKLABS**. The signing-up process is very short and simple, so no worries.
 
-  The codes that you will see on the labs above are complicated and not informative. Make sure you do not try to UNDERSTAND, but REALIZE what you will do.
+  The codes that you will see on the labs above are complicated and not informative. **Make sure you do not try to UNDERSTAND, but REALIZE what you will do.**
 
 
 ### Installation & Initiation of Docker: <a name="docker"></a>
   
   Docker will be the main tool you will be using throughout this program. It is a container that enables easier creation, deplyoment and running applications.
   
-  The tem 'container' defines a software packaged into standardized units for development, shipment and deployment (brought from docker website). Simply speaking, it's a program you will need for coding.
+  The tem *container* defines a software packaged into standardized units for development, shipment and deployment. Simply speaking, it's a program you will need for coding.
   
 ####  1. For Linux and Mac users: <a name="linuxmac"></a>
    
-   **Installation**
+  **Installation**
     
-     Follow the link below for general instruction of docker:
+    Follow the link below for general instruction of docker:
       
-     https://docs.docker.com/get-started/
+	https://docs.docker.com/get-started/
     
-     Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
+    Make sure you download the Community Edition (CE), which is free. Ofcourse, make sure the installer matches your OS.
     
-   **Initiation**
+  **Initiation**
    
-     Make sure you open Docker application.
+    Make sure you open Docker application.
     
-     Open Terminal and on your bash write command.
+    Open Terminal and on your bash write command:
     
-     $ docker login
+	$ docker login
     
 
 
@@ -83,9 +83,9 @@
     
   If your computer runs a Windows 10 Pro, or has Windows Server 2016, follow the same procedures as for Linux and Mac.
     
-  Else, it's a completely different story - you need to download a docker toolbox for windows from the following links:
+  Else, it's a *completely different story* - you need to download a **docker toolbox** for windows from the following links:
     
-	https://docs.docker.com/toolbox/toolbox_install_windows/#step-2-install-docker-toolbox  
+	ttps://docs.docker.com/toolbox/toolbox_install_windows/#step-2-install-docker-toolbox/
     
   Run the file to install toolbox, and then you will see three items popped up on your desktop: 
     
@@ -95,10 +95,10 @@
     
   Ignore Oracle VM VirtualBox! You won't be using this program (at least during this internship program)
     
-  Run Kitematic (Alpha). You will see a page full of boxes that represent docker images. All you need is the very first item on the top left corner: 'hello-world-gnix'  
+  Run **Kitematic (Alpha)**. You will see a page full of boxes that represent docker images. All you need is the very first item on the top left corner: 'hello-world-gnix'  
   Click 'CREATE' button. It's a blue rectangular button with blue edges that every item has.
     
-  Now you have the appropriate container. Close Kitematic (Alpha), and open Docker Quickstart Terminal. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. After then you are ready!
+  Now you have the appropriate container. Close Kitematic (Alpha), and open **Docker Quickstart Terminal**. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. After then you are ready!
 
   ##### *Acutally, running docker on windows is quite complicated and uncompatible with whatever you are going to do on docker. Thus, it is recommended to scroll down a bit and read the section: "Installing Ubuntu".
     

@@ -1,9 +1,17 @@
 # 2018_winter_internship @ GUGC
-supervisor: Mijung Kim
+##Supervisor: 
+  Mijung Kim
 
-Students: Pyeong Eun Kim
-          Mijeong Lee
-          Ju Hyung Lee
+##Students: 
+  Pyeong Eun Kim
+  Mijeong Lee
+  Ju Hyung Lee
+
+# Table of Contents
+1. Goal(#during-this-2018-winter-internship-program,-students-will-learn:)
+2. Getting Ready:(#initial-steps-before-anything:)
+  2.1. Introduction(#introduction)
+  2.2. Installing docker(#installation-&-initialization-of-docker:)
 
 ## During this 2018 winter internship program, students will learn:
 
@@ -28,6 +36,8 @@ Students: Pyeong Eun Kim
     - Image classification with DIGITS.
   
   In order to take those labs, you need to sign up for QWIKLABS. The signing-up process is very short and simple, so no worries.
+
+  The codes that you will see on the labs above are complicated and not informative. Make sure you do not try to UNDERSTAND, but REALIZE what you will do.
 
 
 ### Installation & Initiation of Docker:
@@ -75,11 +85,13 @@ Students: Pyeong Eun Kim
     Run Kitematic (Alpha). You will see a page full of boxes that represent docker images. All you need is the very first item on the top left corner: 'hello-world-gnix'
     Click 'CREATE' button. It's a blue rectangular button with blue edges that every item has.
     
-    Now you have the appropriate container. Close Kitematic (Alpha), and open Docker Quickstart Terminal. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. 
+    Now you have the appropriate container. Close Kitematic (Alpha), and open Docker Quickstart Terminal. a command window will pop up. Wait for the program to do some initializing - when it's done, a pixel-whale will show up. After then you are ready!
+
+    ##### *Acutally, running docker on windows is quite complicated and uncompatible with whatever you are going to do on docker. Thus, it is recommended to scroll down a bit and read the section: "Installing Ubuntu".
     
     
     
-## Before starting the coding, there are some lectures to go through to have a better understanding of what it is going on.
+## Some lectures to go through to have a better understanding of what it is going on.
 
 ### image classification 
   
@@ -116,34 +128,8 @@ Click $start a project$ to start making your own repository. Then follow the ste
           1. write any repository name. 
           2. Check Public
           3. Check "Initializing this repository with README".
-          4. License normally would be "MIT" (about the license go to this link 
-          5. 
-
-
-## Installing UBUNTU
-
-### For window users      : 
-
-  There is a display issue that it does not display the GUI on docker. So it is recommended to install UBUNTU to run GUI on Docker.
-
-##To install UBUNTU  :
-      
-      1. To download Ubuntu 16.04.3 LTS, follow this link  
-          
-          https://www.ubuntu.com/download/desktop
-      
-      2. Move the Ubuntu file into USB.  
-      
-      3. Make the USB bootable with rufus. To download rufus, follow this link 
-      
-          https://rufus.akeo.ie/
-      
-      4. To install Ubuntu, follow this link below  
-          https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.151625099           0-1540692620.1516250990#3
-    
-
-
-
+          4. You have to choose a license. License normally would be "MIT" (detailed explanation included in the link
+          5. Click 'create'. Now you're ready to roll!
 
       
 
@@ -160,13 +146,20 @@ There is a display issue that it does not display the GUI on docker. So it is re
           
           https://www.ubuntu.com/download/desktop
   
-  2. Move the Ubuntu file into USB.  
+  2. Download the iso image for ubuntu wherever you can easily navigate. 
   
   3. Make the USB bootable with rufus. To download rufus, follow this link 
           
           https://rufus.akeo.ie/
+
+     When you open the software, keep the default options.
+     Somewhere in the bottom of the interface, you would see an option to insert the iso file you downloaded minutes ago. 
+     Insert the image, then run the software so that bootable USB is created.
   
   4. To install Ubuntu, follow this link below  
           
           https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop?_ga=2.156978296.258151108.151625099           0-1540692620.1516250990#3
+
+
+
 

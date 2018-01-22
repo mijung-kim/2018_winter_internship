@@ -27,6 +27,7 @@
   * [Installing Ubuntu](#ubuntu)  
 * [Tkinter: Making GUIs](#gui)  
   * [MUST READ: difference in python 2.7](#cautious)  
+  * [Mac user DISPLAY setting (X11 Forwarding)](#remark)
 * [Practice: Project DeepSpeech](#practice)  
 
 
@@ -194,6 +195,8 @@ There is a display issue that it does not display the GUI on docker. So it is re
 	 http://www.tkdocs.com/tutorial/
 
   The link above guides you from a to z on how to make simple GUIs.
+  
+ 
 
 ### MUST READ! Different Version of Python. <a name='cautious'></a>
 
@@ -206,6 +209,30 @@ There is a display issue that it does not display the GUI on docker. So it is re
   Instead, you should go by:  
 	import Tkinter
 	import ttk
+
+### Mac user DISPLAY (X11 Forwarding) setting <a name="remark"></a>
+
+Mac does not support direct display export to ubuntu environment, thus something called X11 forwarding using Xqaurtz is needed. 
+
+If you does not have Xqaurtz installed on your Macbook please go to the link below.
+
+    https://www.xquartz.org
+
+   1. initiate xquartz. Then, go to preference -> security and then check both part. 
+   
+   2. Restart the xquartz.
+   
+   3. follow the command below. This will redirect your display to ubuntu environment.
+   
+    $ ip=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') && echo "My IP is: $ip"
+
+    $ xhost + ${ip}
+
+    $ docker run --rm -it -e DISPLAY=${ip}:0 -v /tmp/.X11-unix:/tmp/.X11-unix mijungkim/2018_winter_internship
+   
+   **everytime you change your internet setting (Wi-Fi), you should write those commands again.**
+
+
 
 ## Practice: Project DeepSpeech <a name='practice'></a>
 

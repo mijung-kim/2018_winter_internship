@@ -216,7 +216,7 @@ Mac does not support direct display export to ubuntu environment, thus something
 
 If you does not have Xqaurtz installed on your Macbook please go to the link below.
 
-    https://www.xquartz.org
+   https://www.xquartz.org
 
    1. initiate xquartz. Then, go to preference -> security and then check both part. 
    

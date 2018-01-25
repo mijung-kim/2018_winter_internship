@@ -28,7 +28,8 @@
 * [Tkinter: Making GUIs](#gui)  
   * [MUST READ: difference in python 2.7](#cautious)  
   * [Mac user DISPLAY setting (X11 Forwarding)](#remark)
-* [Practice: Project DeepSpeech](#practice)  
+  * [Main Keywords](#mainkey)
+* [Practice: Project DeepSpeech](#practice) 
 
 
 
@@ -232,7 +233,13 @@ If you does not have Xqaurtz installed on your Macbook please go to the link bel
    
    **everytime you change your internet setting (Wi-Fi), you should write those commands again.**
 
-
+### Basic Commands in module 'Tkinter' <a name='mainkey'></a> 
+    Detailed instructions would be mentioned in the link above. However, you might need some short tips that might help you understand the instructions better.
+    
+    * The use of 'try' and 'except' commands will prevent many errors.
+    * Always start with **Tk()**, that creates the main window.
+    * Whatever label, frame or widgets you make, do not forget to **'grid'** them so that they will be visible.
+    * At the very end, put **.mainloop()** that runs everything you coded.
 
 ## Practice: Project DeepSpeech <a name='practice'></a>
 

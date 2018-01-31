@@ -29,7 +29,7 @@
   * [MUST READ: difference in python 2.7](#cautious)  
   * [Mac user DISPLAY setting (X11 Forwarding)](#remark)  
   * [Main Keywords](#mainkey)
-* [Practice: Project DeepSpeech](#practice) 
+* [Practice: Project DeepSpeech](#practice)  
 
 
 
@@ -248,6 +248,11 @@ If you does not have Xqaurtz installed on your Macbook please go to the link bel
   Try to make a GUI based on this github project below:  
 	https://github.com/mozilla/DeepSpeech
 
+  Here is an example of GUI made to run the *Speech-to-text* feature:  
+  ![GUI_shot](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/gui_screen.png)
+  ![GUI_result](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/result.png)
   
+  ### Caution: Different languages.
+  Training models for DeepSpeech is done under linux conditions. If you want to safely embed the trained model into python-based GUI script, you need to modify the DeepSpeech model into python language.
   
 

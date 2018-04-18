@@ -1,4 +1,4 @@
-2018 Winter Internship @ GUGC
+ 018 Winter Internship @ GUGC
 =============================
 
 ![ghent logo](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent.jpg)  
@@ -8,7 +8,7 @@
 
 ### Students:  
   Pyeong Eun Kim  
-  Mijeong Lee  
+  Mi Jeong Lee  
   Ju Hyung Lee  
 
 # Table of Contents
@@ -245,7 +245,7 @@ If you does not have Xqaurtz installed on your Macbook please go to the link bel
 
   After going through tutorials from the section right above, now it's time for real stuff.
 
-  Try to make a GUI based on this github project below:  
+  Make a GUI based on this github project below:  
 	https://github.com/mozilla/DeepSpeech
 
   Here is an example of GUI made to run the *Speech-to-text* feature:  

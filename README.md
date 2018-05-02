@@ -1,4 +1,4 @@
- 018 Winter Internship @ GUGC
+ 2018 Winter Internship @ GUGC
 =============================
 
 ![ghent logo](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent.jpg)  

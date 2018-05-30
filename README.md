@@ -252,8 +252,8 @@ If you does not have Xqaurtz installed on your Macbook please go to the link bel
   ![GUI_shot](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/picture1.png)
   ![GUI_shot](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/picture2.png)
   ![GUI_shot](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/picture3.png)
-  ![GUI_result]
-  ![GUI_result]
+  ![GUI_result](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/picture4.png)
+  ![GUI_result](https://github.com/mijung-kim/2018_winter_internship/blob/master/images/picture5.png)
   
   ### Caution: Different languages.
   Training models for DeepSpeech is done under linux conditions. If you want to safely embed the trained model into python-based GUI script, you need to modify the DeepSpeech model into python language.
